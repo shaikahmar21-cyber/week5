@@ -1,6 +1,6 @@
 import { useState } from "react";
 import SignUp from "./SignUp";
-import SignIn from "./Signin";
+import SignIn from "./SignIn";
 import Dashboard from "./Dashboard";
 
 const AuthContainer = () => {
